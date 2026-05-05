@@ -1,3 +1,6 @@
+"""Shared file helpers for LedgerLogic."""
+
+
 from __future__ import annotations # Enable forward references for type hints in Python 3.7+
 
 import csv # Import the CSV module for reading and writing spreadsheet-style files
